@@ -44,14 +44,3 @@ os.system('cls')
 main("y")
 
 
-
-
-
-
-'''
-f = open("enterSandman.txt", "r")
-    n=int(input("Enter a line: "))
-    for i in range(0,n-1):
-        f.readline()
-    print(f.readline())
-'''
